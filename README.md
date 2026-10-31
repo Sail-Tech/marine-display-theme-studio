@@ -1,5 +1,7 @@
 # Marine Display Theme Studio
 
+**▶ [Open the Theme Studio live](https://sail-tech.github.io/marine-display-theme-studio/)** — runs in your browser, nothing to install.
+
 A theme studio and simulator for a marine multifunction instrument display, in two parts:
 
 1. **Web Theme Studio** — a single, self-contained HTML file. A live instrument simulator
